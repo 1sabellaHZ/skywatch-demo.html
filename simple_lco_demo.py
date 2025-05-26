@@ -1,6 +1,3 @@
-# simple_lco_demo.py
-# Run this with: python3 simple_lco_demo.py
-# No extra packages needed - uses only Python standard library
 
 import json
 import urllib.request
